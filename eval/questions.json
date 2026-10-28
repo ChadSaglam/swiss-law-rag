@@ -1,0 +1,47 @@
+[
+  {"id": 1, "language": "de", "question": "Welche Unternehmen sind nach Art. 957 OR zur Buchführung verpflichtet?", "expected_source": "or-art-957-de.txt"},
+  {"id": 2, "language": "en", "question": "Which businesses must keep full accounts under Article 957 of the Swiss Code of Obligations?", "expected_source": "or-art-957-de.txt"},
+  {"id": 3, "language": "fr", "question": "Quelles entreprises sont tenues de tenir une comptabilité selon l'article 957 CO?", "expected_source": "or-art-957-de.txt"},
+  {"id": 4, "language": "de", "question": "Ab welchem Umsatzerlös müssen Einzelunternehmen und Personengesellschaften vollständig Buch führen?", "expected_source": "or-art-957-de.txt"},
+  {"id": 5, "language": "en", "question": "What records are sufficient for a sole proprietorship below CHF 500,000 in revenue?", "expected_source": "or-art-957-de.txt"},
+  {"id": 6, "language": "fr", "question": "Quelles écritures simplifiées suffisent aux petites entreprises sous le seuil de 500 000 francs?", "expected_source": "or-art-957-de.txt"},
+
+  {"id": 7, "language": "de", "question": "Welche Bestandteile hat die Jahresrechnung nach Art. 958 OR?", "expected_source": "or-art-958-de.txt"},
+  {"id": 8, "language": "en", "question": "What are the components of the annual financial statements under Article 958?", "expected_source": "or-art-958-de.txt"},
+  {"id": 9, "language": "fr", "question": "Quels éléments composent les comptes annuels selon l'article 958 CO?", "expected_source": "or-art-958-de.txt"},
+  {"id": 10, "language": "de", "question": "Innerhalb welcher Frist muss der Geschäftsbericht erstellt werden?", "expected_source": "or-art-958-de.txt"},
+  {"id": 11, "language": "en", "question": "Who must sign the annual report under Swiss accounting law?", "expected_source": "or-art-958-de.txt"},
+  {"id": 12, "language": "fr", "question": "Quel est l'objectif de la présentation des comptes selon le droit suisse?", "expected_source": "or-art-958-de.txt"},
+
+  {"id": 13, "language": "de", "question": "Wie lange müssen Geschäftsbücher und Buchungsbelege aufbewahrt werden?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 14, "language": "en", "question": "How long must Swiss accounting books and supporting documents be retained?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 15, "language": "fr", "question": "Pendant combien d'années faut-il conserver les livres comptables et les pièces justificatives?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 16, "language": "de", "question": "Wann beginnt die zehnjährige Aufbewahrungsfrist für Geschäftsunterlagen?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 17, "language": "en", "question": "Can accounting records be stored electronically under Article 958f?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 18, "language": "fr", "question": "Le stockage électronique des documents comptables est-il autorisé en Suisse?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 19, "language": "de", "question": "Müssen Geschäftsbericht und Revisionsbericht schriftlich und unterzeichnet aufbewahrt werden?", "expected_source": "or-art-958f-de.txt"},
+  {"id": 20, "language": "en", "question": "Which reports must be kept in written and signed form?", "expected_source": "or-art-958f-de.txt"},
+
+  {"id": 21, "language": "de", "question": "Wie hoch ist der schweizerische MWST-Normalsatz nach Art. 25?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 22, "language": "en", "question": "What is the standard Swiss VAT rate in Article 25?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 23, "language": "fr", "question": "Quel est le taux normal de la TVA suisse selon l'article 25?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 24, "language": "de", "question": "Welcher reduzierte Steuersatz gilt für Lebensmittel und Medikamente?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 25, "language": "en", "question": "What VAT rate applies to accommodation services including breakfast?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 26, "language": "fr", "question": "Quel taux de TVA s'applique aux prestations d'hébergement?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 27, "language": "de", "question": "Gilt der Normalsatz für Lebensmittel in gastgewerblichen Leistungen?", "expected_source": "mwstg-art-25-de.txt"},
+  {"id": 28, "language": "en", "question": "When can takeaway food qualify for the reduced VAT rate?", "expected_source": "mwstg-art-25-de.txt"},
+
+  {"id": 29, "language": "de", "question": "Welche Angaben muss eine MWST-Rechnung nach Art. 26 enthalten?", "expected_source": "mwstg-art-26-de.txt"},
+  {"id": 30, "language": "en", "question": "What information must a Swiss VAT invoice contain under Article 26?", "expected_source": "mwstg-art-26-de.txt"},
+  {"id": 31, "language": "fr", "question": "Quelles mentions une facture de TVA suisse doit-elle contenir selon l'article 26?", "expected_source": "mwstg-art-26-de.txt"},
+  {"id": 32, "language": "de", "question": "Wann darf auf Angaben zum Leistungsempfänger auf einem Kassenzettel verzichtet werden?", "expected_source": "mwstg-art-26-de.txt"},
+  {"id": 33, "language": "en", "question": "Is stating the VAT rate sufficient when the invoice amount already includes tax?", "expected_source": "mwstg-art-26-de.txt"},
+  {"id": 34, "language": "fr", "question": "Faut-il indiquer séparément la date de prestation si elle diffère de la date de facture?", "expected_source": "mwstg-art-26-de.txt"},
+
+  {"id": 35, "language": "de", "question": "Welche Aufbewahrungsfrist gilt für MWST-Unterlagen zu unbeweglichen Gegenständen?", "expected_source": "mwstg-art-70-de.txt"},
+  {"id": 36, "language": "en", "question": "How long must VAT records relating to immovable property be kept?", "expected_source": "mwstg-art-70-de.txt"},
+  {"id": 37, "language": "fr", "question": "Quelle est la durée de conservation des documents TVA relatifs aux immeubles?", "expected_source": "mwstg-art-70-de.txt"},
+  {"id": 38, "language": "de", "question": "Nach welchen Grundsätzen muss eine steuerpflichtige Person ihre Geschäftsbücher führen?", "expected_source": "mwstg-art-70-de.txt"},
+  {"id": 39, "language": "en", "question": "Who regulates the conditions for paperless transmission and storage of VAT records?", "expected_source": "mwstg-art-70-de.txt"},
+  {"id": 40, "language": "fr", "question": "L'ESTV peut-elle imposer des obligations d'enregistrement supplémentaires pour la TVA?", "expected_source": "mwstg-art-70-de.txt"}
+]

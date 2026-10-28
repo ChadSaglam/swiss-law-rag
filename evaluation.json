@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-28",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "chunk_size": 900,
+  "chunk_overlap": 150,
+  "chunks": 16,
+  "questions": 40,
+  "hit_at_1": 0.875,
+  "hit_at_4": 1.0,
+  "by_language": {
+    "de": {
+      "questions": 14,
+      "hits_at_4": 14,
+      "hit_at_4": 1.0
+    },
+    "en": {
+      "questions": 14,
+      "hits_at_4": 14,
+      "hit_at_4": 1.0
+    },
+    "fr": {
+      "questions": 12,
+      "hits_at_4": 12,
+      "hit_at_4": 1.0
+    }
+  },
+  "scope": "Retrieval only; answer correctness and citation faithfulness are not scored.",
+  "failures": []
+}
